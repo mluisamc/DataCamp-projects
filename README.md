@@ -7,3 +7,5 @@
 :iphone: [The Android App Market on Google Play](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/The_Android_App_Market_on_Google_Play.ipynb)
 
 :computer: [The GitHub History of the Scala Language](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/GitHub_History_of_Scala.ipynb)
+
+:trophy: [A Visual History of Nobel Prize Winners](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nobel_Prize_Winners.ipynb)
