@@ -11,3 +11,5 @@
 :trophy: [A Visual History of Nobel Prize Winners](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nobel_Prize_Winners.ipynb)
 
 :hospital: [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
+
+:crystal_ball: [Predicting Credit Card Approvals](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Predicting%20Credit%20Card%20Approvals.ipynb)
