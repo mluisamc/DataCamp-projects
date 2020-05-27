@@ -19,3 +19,7 @@
 :space_invader: [Exploring 67 years of LEGO](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Exploring%2067%20years%20of%20LEGO.ipynb)
 
 :running: [Analyze Your Runkeeper Fitness Data](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Analyze%20Your%20Runkeeper%20Fitness%20Data.ipynb)
+
+:moneybag: [Exploring the Bitcoin Cryptocurrency Market](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb)
+
+:penguin: [Exploring the Evolution of Linux](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Exploring%20the%20Evolution%20of%20Linux.ipynb)
