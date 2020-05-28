@@ -23,3 +23,7 @@
 :moneybag: [Exploring the Bitcoin Cryptocurrency Market](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb)
 
 :penguin: [Exploring the Evolution of Linux](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Exploring%20the%20Evolution%20of%20Linux.ipynb)
+
+:bee: [Naïve Bees: Image Loading and Processing](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nai%CC%88ve%20Bees:%20Image%20Loading%20and%20Processing.ipynb)
+
+:bee: :bee: [Naïve Bees: Predict Species from Images](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nai%CC%88ve%20Bees:%20Predict%20Species%20from%20Images.ipynb)
