@@ -27,3 +27,11 @@
 :bee: [Naïve Bees: Image Loading and Processing](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nai%CC%88ve%20Bees:%20Image%20Loading%20and%20Processing.ipynb)
 
 :bee: :bee: [Naïve Bees: Predict Species from Images](https://github.com/mluisamc/DataCamp-projects/blob/master/Python/Nai%CC%88ve%20Bees:%20Predict%20Species%20from%20Images.ipynb)
+
+
+### R
+
+:computer: [Rise and Fall of Programming Languages](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Rise%20and%20Fall%20of%20Programming%20Languages.ipynb)
+
+:beer: [Who Is Drunk and When in Ames, Iowa?](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa%3F.ipynb)
+
