@@ -35,3 +35,4 @@
 
 :beer: [Who Is Drunk and When in Ames, Iowa?](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa%3F.ipynb)
 
+:candy: [Level Difficulty in Candy Crush Saga](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Level%20Difficulty%20in%20Candy%20Crush%20Saga.ipynb)
