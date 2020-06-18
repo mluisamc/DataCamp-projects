@@ -42,3 +42,5 @@
 :trophy: [A Visual History of Nobel Prize Winners](https://github.com/mluisamc/DataCamp-projects/blob/master/R/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)
 
 :hospital: [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
+
+:older_man: [Visualizing Inequalities in Life Expectancy](https://github.com/mluisamc/DataCamp-projects/blob/master/R/Visualizing%20Inequalities%20in%20Life%20Expectancy.ipynb)
